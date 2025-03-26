@@ -1,1 +1,1 @@
-# Fire_Detection_System
+A Fire Detection System is an AI-powered safety solution that identifies fire and smoke in real-time using computer vision, deep learning, and sensor-based methods. It enhances early detection and response, reducing damage and improving public safety.
